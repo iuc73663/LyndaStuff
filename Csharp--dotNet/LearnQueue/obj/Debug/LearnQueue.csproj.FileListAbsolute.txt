@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearnQueue\obj\Debug\LearnQueue.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearnQueue\obj\Debug\LearnQueue.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearnQueue\bin\Debug\LearnQueue.exe.config
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearnQueue\bin\Debug\LearnQueue.exe
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearnQueue\bin\Debug\LearnQueue.pdb
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearnQueue\obj\Debug\LearnQueue.exe
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearnQueue\obj\Debug\LearnQueue.pdb

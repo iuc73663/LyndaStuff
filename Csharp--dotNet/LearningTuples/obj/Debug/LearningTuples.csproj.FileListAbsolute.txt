@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningTuples\bin\Debug\LearningTuples.exe.config
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningTuples\bin\Debug\LearningTuples.exe
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningTuples\bin\Debug\LearningTuples.pdb
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningTuples\obj\Debug\LearningTuples.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningTuples\obj\Debug\LearningTuples.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningTuples\obj\Debug\LearningTuples.exe
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningTuples\obj\Debug\LearningTuples.pdb
