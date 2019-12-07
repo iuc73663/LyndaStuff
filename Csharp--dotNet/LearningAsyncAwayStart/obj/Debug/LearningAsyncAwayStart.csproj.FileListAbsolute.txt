@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningAsyncAwayStart\bin\Debug\LearningAsyncAwayStart.exe.config
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningAsyncAwayStart\bin\Debug\LearningAsyncAwayStart.exe
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningAsyncAwayStart\bin\Debug\LearningAsyncAwayStart.pdb
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.exe
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.pdb

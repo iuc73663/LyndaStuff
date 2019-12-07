@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningAsync\bin\Debug\LearningAsync.exe.config
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningAsync\bin\Debug\LearningAsync.exe
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningAsync\bin\Debug\LearningAsync.pdb
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningAsync\obj\Debug\LearningAsync.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningAsync\obj\Debug\LearningAsync.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningAsync\obj\Debug\LearningAsync.exe
+C:\Users\Administrator\Documents\LyndaStuff\Csharp--dotNet\LearningAsync\obj\Debug\LearningAsync.pdb
